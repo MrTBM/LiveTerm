@@ -2,14 +2,14 @@
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
   "title": "Fosshost",
   "name": "Fosshost",
-  "ascii": "fosshost",
+  "ascii": "Fosshost",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "email": "admin@fosshost.orgm",
+  "ps1_hostname": "fosshost",
+  "ps1_username": "guest",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
